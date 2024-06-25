@@ -1,3 +1,5 @@
+02.04.2024
+
 An application that allows you to find out the position of a shape (circle or segment) on the coordinate axis
 
 Приложение позволяет узнать положение фигуры (круг или отрезок) на оси координат
